@@ -1,0 +1,6 @@
+Script to create somewhat readable diff for Apple's Keynote.
+
+*THIS IS ON-GOING WORK*
+current version only shows diff of pretty printed XML.
+
+Require 'xmlpp' script from http://software.decisionsoft.com/index.html
